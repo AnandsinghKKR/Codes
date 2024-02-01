@@ -1,5 +1,5 @@
 // 2966. Divide Array Into Arrays With Max Difference  (sliding window +sorting)
-
+import java.util.*;
 public class Leetcode2966 {
 class Solution {
     public int[][] divideArray(int[] nums, int k) {
